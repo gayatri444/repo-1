@@ -1,3 +1,3 @@
 # GIT HUB PROJECT
 ---
-![rm.png](output)
+![output](rm.png)
